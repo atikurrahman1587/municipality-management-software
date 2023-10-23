@@ -16,7 +16,9 @@ Laravel app where all Baraigram residents can get their required certificates an
 <p align="center">
   <img src="https://github.com/atikurrahman1587/municipality-management-software/blob/main/holding-tax-dashboard.png?raw=true" alt="accessibility text">
 </p>
+
 ### Accounting Dashboard
+
 <p align="center">
   <img src="https://github.com/atikurrahman1587/municipality-management-software/blob/main/accounting-dashboard.png?raw=true" alt="accessibility text">
 </p>
