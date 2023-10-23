@@ -1,11 +1,12 @@
-# municipality-management-software
+# Municipality Management Software
 
 Laravel app where all Baraigram residents can get their required certificates and trade licenses at home and pay taxes at home. And all functional employees of the municipality from the backend have to do all their work through the app. They can calculate all their income and expenses at the moment.
 •	Language used: HTML, CSS, JavaScript. Library used: Bootstrap.
 •	Tools used: Phpstorm, laragon.
 •	Technology: Laravel. Database: MySQL.
 
-### ![Live:](https://baraigrampaurashava.com) https://baraigrampaurashava.com
+### Live
+<a href="https://baraigrampaurashava.com">Baraigram Paurashava</a>
 
 ### Admin Dashboard
 <p align="center">
