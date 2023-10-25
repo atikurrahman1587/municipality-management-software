@@ -6,7 +6,9 @@ Laravel app where all Baraigram residents can get their required certificates an
 •	Technology: Laravel. Database: MySQL.
 
 ### Live
-<a href="https://baraigrampaurashava.com">Baraigram Paurashava</a>
+<a href="https://baraigrampaurashava.com">Baraigram Paurashava</a><br/>
+<a href="https://gurudaspurpaurashava.com">Gurudaspur Paurashava</a>
+
 
 ### Admin Dashboard
 <p align="center">
