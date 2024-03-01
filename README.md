@@ -7,7 +7,7 @@ Laravel app where all Baraigram residents can get their required certificates an
 
 ### Live
 <a href="https://baraigrampaurashava.com">Baraigram Paurashava</a><br/>
-<a href="https://gurudaspurpaurashava.com">Gurudaspur Paurashava</a>
+<a href="https://gurudaspurpaurashava.com">Gurudaspur Paurashava</a><br/>
 <a href="https://bonparapaurashava.com">Bonpara Paurashava</a>
 
 ### Admin Dashboard
