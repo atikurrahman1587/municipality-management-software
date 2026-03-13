@@ -107,6 +107,15 @@ The system uses **Laravel Queue & Scheduler** for:
 
 ---
 
+## Author
+
+Atikur Rahman  
+Laravel Developer
+
+GitHub: https://github.com/atikurrahman1587
+
+---
+
 # 🏗 System Architecture
 
 ```mermaid
@@ -125,3 +134,4 @@ QueueSystem --> BackgroundJobs
 
 Admin --> AdminDashboard
 AdminDashboard --> LaravelApp
+
