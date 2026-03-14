@@ -132,7 +132,7 @@ AdminDashboard --> LaravelApp
 ## Author
 
 Md Atikur Rahman  
-Full Stack Developer
+Full Stack Web Developer
 
 GitHub: https://github.com/atikurrahman1587
 
